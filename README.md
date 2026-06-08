@@ -51,3 +51,5 @@
 - [OpenDialog](https://opendialog.ai/) - OpenDialog enables you to design, develop and deploy conversational applications. Offers an open-source version and an Enterprise edition.
 - [Rasa](https://rasa.com/) - A platform to create virtual assistants at scale. Offers an open-source version and an Enterprise edition.
 - [SAP Conversational AI](https://cai.tools.sap/) - An end-to-end chatbot building platform from SAP. Comes with a free Community edition and an Enterprise edition.
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and wallet identity verification for AI agents. Verify agent wallet identity before autonomous actions or API access via x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
